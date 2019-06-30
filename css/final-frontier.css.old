@@ -1,0 +1,155 @@
+/** final-frontier.css
+ * CSS rules for the final frontier CMS app 
+ * 
+ * Place your custom CSS rules in this document 
+ */
+
+
+
+@font-face {
+      font-family: "TNG Credits";
+      src: url("https://spray-vista.codio.io/mockups/assets/TNG_Credits.ttf") format("truetype"),
+           url("https://spray-vista.codio.io/mockups/assets/TNG_Credits-1.woff") format("woff");
+    }
+
+body {
+  font-family: Verdana;
+    
+}
+
+h1 {
+        font-family: "TNG Credits"        
+    }
+
+h2 {
+        font-family: "TNG Credits"        
+    }
+
+h3 {
+        font-family: "TNG Credits"        
+    }
+
+h4 {
+        font-family: "TNG Credits"        
+    }
+
+
+
+.card {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 6px 12px #888888;
+  border-radius: 25px;
+  width: 300px;
+  min-height: 100px;
+  background-color: white;
+  margin: 0 auto;
+    
+}
+
+.expandedCard {
+    position: relative;
+    overflow: auto;
+    background-color: white;
+    width: 95vw !important;
+    height: 80vh !important; 
+}
+ 
+.invis {
+    visibility: hidden;
+}
+
+.vis {
+    visibility: visible;
+}
+
+.expanded {
+
+}
+
+.small {
+  max-height: 150px;
+  overflow: hidden; 
+}
+
+.imgBox
+{
+    max-height: 130px;
+    max-width: 140px;
+    font-size: 5pt
+}
+
+.txtBox
+{
+font-size: 5pt
+}
+
+.imgGallery
+{
+  width: 300px;
+  height: 130;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  font-size: 5pt
+}
+
+.imageHide
+{
+    display: none;
+}
+
+.imageShow
+{
+    display: inline;
+}
+
+@media screen and (min-width: 490px) {
+.grid{
+  display: grid;
+  grid-template-columns: repeat(4, 4fr);
+  grid-template-rows: 300px 300px 300px 300px;
+  grid-row-gap: 50px;
+  justify-content: space-evenly;
+  
+}
+.imgGrid{
+  display: grid;
+  grid-template-columns: repeat(3, 3fr);
+  grid-template-rows: 300px 300px 300px;
+  grid-row-gap: 50px;
+  justify-content: stretch;
+  font-size: 5pt
+  align-items: center;
+}         
+}
+
+@media screen and (max-width: 489px) {
+.grid{
+  height: 2400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.imgGrid{
+  height: 1350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+
+}
+}
+#expanded {
+    background-color: white;
+    width: 95vw;
+    height: 80vh;
+}
+    
+#close {
+  
+}    
+    
+
+
+  

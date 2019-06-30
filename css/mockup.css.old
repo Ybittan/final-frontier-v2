@@ -1,0 +1,18 @@
+/** mockup.css 
+ * Styles for creating a template to hold card elements 
+ * to preview designs.
+ * 
+ * Do not change or add to the styles in this document!
+ * Put your custom CSS into final-frontier.css
+ */
+
+body {
+    background-color: violet;
+}
+
+#content {
+    width: 300px;
+    min-height: 100px;
+    background-color: white;
+    margin: 0 auto;
+}

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head lang="en-us">
+        <title>Article Mockup</title>
+        <link href="css/mockup.css" rel="stylesheet" type="text/css">
+        <link href="css/final-frontier.css" rel="stylesheet" type="text/css">
+        <meta name="viewport" content="width=device-width, inital-scale=1.0">
+    </head>
+    <body>
+        <h1>Article Mockup</h1>
+        <div id="content" class="card">
+            <button id="close" class="invis" type="button">Close</button><center><h2>Article Title </h2></center>
+            
+           
+            <form id="articleForm" class="small">                
+             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae orci ut velit tempus porta vel eu augue. Cras fermentum leo ex, sit amet porta eros pellentesque pellentesque. Aliquam volutpat nisl sem, vel vulputate lorem convallis quis. Fusce a imperdiet tellus. Nullam fermentum sapien eget risus imperdiet molestie. Donec vel facilisis lorem. Nulla faucibus fermentum ante id dignissim. Nullam sollicitudin massa ac semper sollicitudin. Suspendisse venenatis semper sem, sed pulvinar leo interdum nec.
+
+<p>Duis eget dictum risus. Sed et ullamcorper lacus. Fusce enim urna, ullamcorper feugiat nunc rhoncus, blandit lacinia tellus. Donec viverra cursus est, volutpat pulvinar enim dapibus eget. Nulla volutpat tincidunt nibh eu consectetur. Pellentesque eget ultrices nibh, vitae egestas massa. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nam ac ultricies enim. Quisque congue urna vitae sem commodo efficitur. Cras tincidunt commodo scelerisque. Sed eu nibh ac urna posuere volutpat ac id nibh. Mauris a aliquam ipsum. Donec quis nunc sed lacus dictum finibus. Morbi ullamcorper pharetra odio ut dapibus.
+</p>
+<p>Nunc maximus mauris eu tellus commodo, at tristique odio venenatis. Sed aliquam lectus ac elit sodales, eu posuere urna ornare. Phasellus ultrices luctus rutrum. Fusce in ipsum quis purus hendrerit ullamcorper in at ante. In malesuada metus metus. Ut ac odio tincidunt magna dignissim fermentum a at urna. Integer bibendum tellus non augue malesuada, fermentum ullamcorper mauris blandit. Suspendisse erat urna, fringilla cursus nisl at, blandit suscipit lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla nec dignissim lectus. Nullam elit nibh, accumsan vitae ex vel, pellentesque rutrum massa.
+</p>
+<p>Integer ullamcorper lacus in tellus euismod, sit amet suscipit turpis tempor. Nullam a est ultrices, tincidunt orci sit amet, efficitur erat. Vestibulum massa magna, ornare vel lorem quis, commodo commodo metus. Vestibulum vitae lorem ligula. Curabitur pretium sagittis sem vitae lacinia. Nam accumsan justo egestas venenatis cursus. Quisque sed sem et ligula condimentum euismod. Quisque gravida ac ipsum vel ornare. Maecenas a dui at eros placerat viverra congue eget ante.
+</p>
+<p>Pellentesque nibh nisi, sodales a posuere ut, consectetur nec lacus. Proin rutrum neque eget quam porta, vitae dignissim felis scelerisque. Mauris hendrerit, orci ut faucibus sagittis, est leo iaculis massa, ut imperdiet urna neque ac nibh. Suspendisse potenti. Praesent tincidunt, tellus malesuada sollicitudin molestie, mi ipsum ultrices dolor, non fermentum augue augue nec tellus. Sed placerat ex quis faucibus interdum. Duis vitae consectetur erat. Aenean justo felis, tristique a ex eu, efficitur pharetra diam. Vestibulum ac lobortis diam. Suspendisse potenti. Sed in nibh lacus. Aenean cursus cursus dignissim. Praesent pretium sodales convallis. Nullam malesuada velit lectus, pellentesque tempus lectus faucibus at. Donec et finibus urna. Curabitur varius nulla metus, ac varius arcu pulvinar sed.
+</p>
+<p>Fusce volutpat at purus vitae suscipit. Donec suscipit tincidunt urna eu elementum. Quisque condimentum justo vel orci iaculis, eget pretium ligula interdum. Proin consequat consequat nisi, in interdum elit gravida vitae. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec nisi erat, rutrum nec ornare eu, rutrum id nisl. Etiam et porttitor massa. Duis et mauris nec eros convallis elementum. Fusce ultrices diam egestas pharetra sagittis. Fusce accumsan laoreet nulla a ultricies. Sed purus ante, gravida quis purus eget, faucibus maximus elit. Morbi commodo, magna pellentesque ultrices iaculis, nisi lectus eleifend lectus, pharetra aliquam purus nibh sed nisl. Sed facilisis, nunc et gravida rhoncus, ante risus tempor urna, id scelerisque neque magna id lorem. Sed condimentum ut nisl et rhoncus.
+</p>
+<p>Aenean ornare orci vitae eros posuere egestas. Etiam porta leo a dolor feugiat luctus. Etiam eu blandit arcu, nec dapibus sem. Proin imperdiet dolor ut ultricies commodo. Ut odio ante, gravida a arcu nec, interdum ultricies ipsum. Mauris at condimentum libero. Quisque posuere sollicitudin nisl et iaculis. Phasellus justo nibh, cursus sed faucibus molestie, ornare quis dolor. Nullam id urna eu metus placerat tincidunt eu scelerisque dolor. In nec sapien eros. Vivamus finibus dapibus tincidunt. Vestibulum suscipit leo sed commodo efficitur. Nulla sollicitudin varius orci sit amet vehicula. Cras risus eros, suscipit eu felis non, porta faucibus lectus. Ut aliquam nisi ipsum, eget congue urna placerat et. Nam egestas, sem vitae viverra consectetur, urna justo tempus ligula, at ultricies nisl ante cursus eros.
+</p>
+<p>In ac mauris non leo volutpat suscipit sed eu turpis. Donec viverra est enim. Aenean iaculis purus at magna auctor, eu imperdiet est bibendum. Vestibulum sed purus ac massa pharetra tincidunt. Praesent nec vulputate dolor. Pellentesque ac posuere ante. In mi ligula, finibus sit amet risus a, tincidunt blandit arcu. Aenean et tincidunt mauris, aliquam ultricies sem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In hac habitasse platea dictumst. Donec aliquam nisl vitae mauris viverra, feugiat consequat orci interdum. Integer eu risus eget est vestibulum efficitur.
+</p>    
+            </form>      
+            <p></p>
+            <center><button id="readMore" type="button">Read More!</button></center>
+            <p></p>     
+            
+        </div> 
+        <script src="js/final-frontier.js"></script>
+    </body>
+</html>

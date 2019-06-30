@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head lang="en-us">
+        <title>Final Frontier</title>
+        <link href="css/mockup.css" rel="stylesheet" type="text/css">
+        <link href="css/final-frontier.css" rel="stylesheet" type="text/css">
+        <meta name="viewport" content="width=device-width, inital-scale=1.0">
+    </head>
+    <body>
+        <center><h1>Final Frontier</h1>
+        
+        <form class="search" action="test">
+  <input type="text" placeholder="Enter search here..." name="search">
+  <button type="submit">Search</button>
+</form></center>
+<p></p>
+  
+    <div class="grid">       
+        
+        <div class="card"> </div>
+        <div class="card"> </div>
+        <div class="card"> </div>
+        <div class="card"> </div>
+        <div class="card"> </div>
+        <div class="card"> </div>
+        <div class="card"> </div>
+        <div class="card"> </div>
+        <div class="card"> </div>
+        <div class="card"> </div>
+        <div class="card"> </div>
+        <div class="card"> </div>
+        
+
+    </div>      
+}        
+        <script src="js/final-frontier.js"></script>
+    </body>
+</html>
